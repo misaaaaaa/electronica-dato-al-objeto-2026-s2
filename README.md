@@ -6,25 +6,25 @@ repositorio del curso de electrónica digital: del dato al objeto, de la escuela
 
 | clase | día     | clase                                                                                               |
 |-------|---------|---------------------------------------------------------------------------------------------------- |
-| [01](clases/clase01/clase01.md) |   5 ago |  ONLINE: bitácora, lista de materiales, programa, introducción github, preguntar por compu, referentes      |
-| [02](clases/clase02/clase02.md) |  12 ago | PRESENCIAL: charla Sean Moscoso |
-| [03](clases/clase03/clase03.md) |  19 ago | ONLINE: Intro programación en processing: variables, funciones, strings, print, primitivas |
-| [04](clases/clase04/clase04.md) |  26 ago | PRESENCIAL: charla Aarón Montoya |
-| [05](clases/clase05/clase05.md) |   2 sept | Continuación de Processing: uso de variables de tiempo, construcción de afiche dinámico |
-| [06](clases/clase06/clase06.md) |   9 sept | evaluación 1 |
+| [01](clases/clase01/README.md) |   5 ago |  ONLINE: bitácora, lista de materiales, programa, introducción github, preguntar por compu, referentes      |
+| [02](clases/clase02/README.md) |  12 ago | PRESENCIAL: charla Sean Moscoso |
+| [03](clases/clase03/README.md) |  19 ago | ONLINE: Intro programación en processing: variables, funciones, strings, print, primitivas |
+| [04](clases/clase04/README.md) |  26 ago | PRESENCIAL: charla Aarón Montoya |
+| [05](clases/clase05/README.md) |   2 sept | Continuación de Processing: uso de variables de tiempo, construcción de afiche dinámico |
+| [06](clases/clase06/README.md) |   9 sept | evaluación 1 |
 | x     |  16 sept | feriado |
-| [07](clases/clase07/clase07.md) |  23 sept | Intro programación en arduino, señal digital, morse |
-| [08](clases/clase08/clase08.md) |  30 sept | Señales analógicas de entrada y salida |
-| [09](clases/clase09/clase09.md) |   7 oct | i2c y pantallas oled 096 |
-| [10](clases/clase10/clase10.md) |  14 oct | processing, texto, cámara |
-| [11](clases/clase11/clase11.md) |  21 oct | encoder y motor paso a paso |
-| [12](clases/clase12/clase12.md) |  28 oct | datos de gps |
-| [13](clases/clase13/clase13.md) |   4 nov | revisión de referentes y discusión |
-| [14](clases/clase14/clase14.md) |  11 nov | presentación anteproyecto |
-| [15](clases/clase15/clase15.md) |  18 nov | proyecto |
-| [16](clases/clase16/clase16.md) |  25 nov | proyecto |
-| [17](clases/clase17/clase17.md) |   2 dic | proyecto |
-| [18](clases/clase18/clase18.md) |  11 dic | examen |
+| [07](clases/clase07/README.md) |  23 sept | Intro programación en arduino, señal digital, morse |
+| [08](clases/clase08/README.md) |  30 sept | Señales analógicas de entrada y salida |
+| [09](clases/clase09/README.md) |   7 oct | i2c y pantallas oled 096 |
+| [10](clases/clase10/README.md) |  14 oct | processing, texto, cámara |
+| [11](clases/clase11/README.md) |  21 oct | encoder y motor paso a paso |
+| [12](clases/clase12/README.md) |  28 oct | datos de gps |
+| [13](clases/clase13/README.md) |   4 nov | revisión de referentes y discusión |
+| [14](clases/clase14/README.md) |  11 nov | presentación anteproyecto |
+| [15](clases/clase15/README.md) |  18 nov | proyecto |
+| [16](clases/clase16/README.md) |  25 nov | proyecto |
+| [17](clases/clase17/README.md) |   2 dic | proyecto |
+| [18](clases/clase18/README.md) |  11 dic | examen |
 
 ## Bitácoras de estudiantes
 
