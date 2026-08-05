@@ -35,11 +35,23 @@ no olvidar crear readme
 
   ___________
 
-  ## Guía de referencia de Markdown
+  ## Cosas mencionadas
 
-  como escribir para dar formato de título grande, mediano, pequeño, negrita, cursiva, etc.
+  Guia Markdown: como escribir para dar formato de título grande, mediano, pequeño, negrita, cursiva, etc.
 
   <https://www.markdownguide.org/cheat-sheet/>
+
+  Documental de Donna Haraway
+
+  <https://lalulula.tv/cine/100076/donna-haraway-cuentos-para-la-supervivencia-terrenal/>
+
+  Repositorio de curso anterior
+
+  <https://github.com/misaaaaaa/TACO122-037-electronica2025>
+
+  Próxima semana presencial en sala 8: visita de Sean Moscoso
+
+  <https://www.youtube.com/@seanmoscoso>
 
   ## Grabación de clase
 
