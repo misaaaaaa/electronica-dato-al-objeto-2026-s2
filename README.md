@@ -30,17 +30,14 @@ repositorio del curso de electrónica digital: del dato al objeto, de la escuela
 
 | #  | estudiante      | enlace                                                                                   |
 |----|----------------|------------------------------------------------------------------------------------------|
-| 01 | estudiante 01 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 02 | estudiante 02 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 03 | estudiante 03 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 04 | estudiante 04 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 05 | estudiante 05 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 06 | estudiante 06 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 07 | estudiante 07 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 08 | estudiante 08 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 09 | estudiante 09 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 10 | estudiante 10 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
-| 11 | estudiante 11 | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 01 | Ameli Aravena | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 02 | Nicolás Gálvez | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 03 | Josefina Guerrero | 🟢 [Josefina-Guerrero-Espinoza](https://github.com/Josefina-Guerrero-Espinoza/Bitacora-electronica) |
+| 04 | Roxanna Martínez | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 05 | Nicole Prado | 🟢 [nicolerenata01](https://github.com/nicolerenata01/Bitacora-electronica-digital-S2-2026) |
+| 06 | Oliver Robles | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 07 | Vincent (PEV) | 🟢 [vncnt09](https://github.com/vncnt09/bitacora-electronica-digital) |
+| 08 | Micaela (PEV) | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
 
 ## Evaluaciones
 
