@@ -37,7 +37,7 @@ repositorio del curso de electrónica digital: del dato al objeto, de la escuela
 | 05 | Nicole Prado | 🟢 [nicolerenata01](https://github.com/nicolerenata01/Bitacora-electronica-digital-S2-2026) |
 | 06 | Oliver Robles | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
 | 07 | Vincent (PEV) | 🟢 [vncnt09](https://github.com/vncnt09/bitacora-electronica-digital) |
-| 08 | Micaela (PEV) | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 08 | Micaela (PEV) | 🟢 [micaelaabrilhs](https://github.com/micaelaabrilhs/bit-cora-Electr-nica-Digital/blob/main/README.md) |
 
 ## Evaluaciones
 
