@@ -1,0 +1,13 @@
+size(600, 600);
+background(400);
+rect(200, 200, 100, 100);
+translate(50, 50);
+rect(200, 200, 100, 100);
+pushMatrix();
+rotate(PI/16);
+rect(200, 200, 100, 100);
+popMatrix();
+//pushMatrix();
+scale(0.5);
+//popMatrix();
+rect(200, 200, 100, 100);
