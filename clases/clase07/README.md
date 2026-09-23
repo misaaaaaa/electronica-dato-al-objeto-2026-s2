@@ -6,3 +6,7 @@ arduino virtual <https://www.tinkercad.com/>
 
 
 ![proto](./imagenes/proto.png)
+
+### Registro clase
+
+<https://youtu.be/LAmluOiCPAY>
