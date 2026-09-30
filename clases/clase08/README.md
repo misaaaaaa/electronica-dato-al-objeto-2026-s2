@@ -14,3 +14,7 @@ luego incorporamos un led en la pata 9
 ![botonRandomIF](./imagenes/boton-led.png)
 
 y aprendimos sobre escribir análogo en [botonRandomIF.ino](./botonRandomIF.ino)
+
+## Encargo
+
+implementar que la lectura del LDR depende de si hay un botón apretado (al apretar el botón se entre en modo calibración de intensidad)
