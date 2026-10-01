@@ -53,11 +53,18 @@ repositorio del curso de electrónica digital: del dato al objeto, de la escuela
 
 La nota final está compuesta de la ponderación de la nota de presentación y la nota de examen. La nota de presentación será el promedio de las 3 notas anteriores, y conformará el 60% de la nota final del curso. El otro 40% corresponde al examen.
 
-## Nota para clonar
+## Clonar y actualizar submódulos
 
-Este repositorio contiene submódulos. Si clonas el repositorio no olvidar de hacer
+Al clonar el repositorio, inicializa los submódulos con:
 
+```sh
+git clone --recurse-submodules https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2.git
 ```
-git submodule init
-git submodule update
+
+Para actualizar el repositorio principal y traer los últimos commits de la rama `main` de cada bitácora, configura este alias una vez:
+
+```sh
+git config --local alias.pullall '!git pull && git submodule update --remote'
 ```
+
+Luego ejecuta `git pullall` desde el repositorio. Los commits nuevos de los submódulos quedan registrados en el repositorio principal; para compartir esas referencias, haz commit y push de los cambios resultantes.

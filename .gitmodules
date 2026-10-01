@@ -1,0 +1,24 @@
+[submodule "bitacoras/NagaiAmeli"]
+	path = bitacoras/NagaiAmeli
+	url = https://github.com/NagaiAmeli/bitacora-electronica-digital.git
+	branch = main
+[submodule "bitacoras/enyi2306"]
+	path = bitacoras/enyi2306
+	url = https://github.com/enyi2306/Bit-cora_Electronica_Digital-.git
+	branch = main
+[submodule "bitacoras/Josefina-Guerrero-Espinoza"]
+	path = bitacoras/Josefina-Guerrero-Espinoza
+	url = https://github.com/Josefina-Guerrero-Espinoza/Bitacora-electronica.git
+	branch = main
+[submodule "bitacoras/nicolerenata01"]
+	path = bitacoras/nicolerenata01
+	url = https://github.com/nicolerenata01/Bitacora-electronica-digital-S2-2026.git
+	branch = main
+[submodule "bitacoras/vncnt09"]
+	path = bitacoras/vncnt09
+	url = https://github.com/vncnt09/bitacora-electronica-digital.git
+	branch = main
+[submodule "bitacoras/micaelaabrilhs"]
+	path = bitacoras/micaelaabrilhs
+	url = https://github.com/micaelaabrilhs/bit-cora-Electr-nica-Digital.git
+	branch = main
