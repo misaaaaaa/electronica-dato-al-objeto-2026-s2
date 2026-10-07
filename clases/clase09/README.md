@@ -19,7 +19,7 @@ la semana pasada lo hicimos con un potenciómetro y un LDR, para controlar el br
 | analog  | analogRead(numeroPinA); por ejemplo: potenciometro, LDR   valores posible: 0 - 1023  funcionan en pines analog in (A0 al A5) | analogWrite(numeroPin, valor); leds con intensidad intermedia  valor posible: 0 - 255  funcionan en CIERTOS pines digitales (~): 3,5,6,9,10,11 |
 | digital | digitalRead(númeroPin); por ejemplo: botones   funcionan en pines digitales (Del 0 al 13)                                    | digitalWrite(numeroPin, variable); por ejemplo: luces on/off  funcionan en pines digitales (Del 0 al 13)                                       |
 
-En el fondo, todo esto, son sistema de comunicación. Hay otros sistemas de comunicación que puede usar arduino, como un PROTOCOLO llamado I2C
+En el fondo, todo esto, son sistema de comunicación. Hay otros sistemas de comunicación que puede usar arduino, como un PROTOCOLO llamado I2C, el que utiliza la pantalla que veremos hoy
 
 ## diagrama wokwi potenciometro led
 
@@ -137,3 +137,13 @@ royecto de bob post claude: [./bob-pantalla-claudeado](./bob-pantalla-claudeado/
 ## grabación clase
 
 <https://youtu.be/R1j5wIGl8pA>
+
+## seteos para convertir imagenes
+
+![imagen1](./imagenes/converter-img-cpp-1.png)
+
+![imagen2](./imagenes/converter-img-cpp-2.png)
+
+![imagen3](./imagenes/converter-img-cpp-3.png)
+
+![imagen4](./imagenes/converter-img-cpp-4.png)
