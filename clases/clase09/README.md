@@ -23,6 +23,12 @@ En el fondo, todo esto, son sistema de comunicación. Hay otros sistemas de comu
 
 ## diagrama wokwi potenciometro led
 
+puedes copiar y pegar este código en la sección "diagram.json" de tu proyecto de wokwi
+
+se debería ver así
+
+![pote-led](./imagenes/pote-led.png)
+
 ```json
 {
   "version": 1,
@@ -64,3 +70,70 @@ En el fondo, todo esto, son sistema de comunicación. Hay otros sistemas de comu
   "dependencies": {}
 }
 ```
+
+## diagrama wokwi potenciometro pantalla
+
+```json 
+{
+  "version": 1,
+  "author": "Matías Serrano",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": 237, "left": 41.2, "attrs": {} },
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": -37.8, "left": -39, "attrs": {} },
+    {
+      "type": "wokwi-potentiometer",
+      "id": "pot1",
+      "top": 405.3,
+      "left": 97,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "board-ssd1306",
+      "id": "oled1",
+      "top": 291.14,
+      "left": 403.43,
+      "attrs": { "i2cAddress": "0x3c" }
+    }
+  ],
+  "connections": [
+    [ "uno:5V", "bb1:tp.1", "red", [ "v47.9", "h-101.8", "v48" ] ],
+    [ "uno:GND.2", "bb1:bn.1", "black", [ "v76.7", "h-120.9", "v201.6" ] ],
+    [ "pot1:VCC", "bb1:tp.5", "red", [ "v0" ] ],
+    [ "pot1:GND", "bb1:bn.11", "black", [ "v-9.6", "h38.4" ] ],
+    [ "pot1:SIG", "uno:A0", "green", [ "v-192", "h29.2" ] ],
+    [ "oled1:GND", "bb1:bn.25", "black", [ "v-19.2", "h-57.6", "v153.6" ] ],
+    [ "oled1:VCC", "bb1:tp.25", "red", [ "v0" ] ],
+    [ "oled1:SCL", "uno:A5", "purple", [ "v-124.8", "h-239.7" ] ],
+    [ "oled1:SDA", "uno:A4", "blue", [ "v-105.6", "h-259.13" ] ]
+  ],
+  "dependencies": {}
+}
+```
+
+## links relevantes
+
+conversor de imágenes para pantalla <https://javl.github.io/image2cpp/>
+
+biblioteca ssd1306 de adafruit <https://github.com/adafruit/adafruit_ssd1306>
+
+pantalla afel <https://afel.cl/products/pantalla-lcd-oled-azul-y-amarillo-0-96>
+
+## códigos en clase
+
+[miPrimerSerialPrint.ino](./miPrimerSerialPrint.ino)
+
+[mi primera pantalla](./miPrimeraPantalla-096.ino)
+
+[pantalla-potenciometro](./pantalla-potenciometro.ino)
+
+[pantalla-bob.ino](./pantalla-bob.ino)
+
+proyecto de bob: [./bob-pantalla](./bob-pantalla/)
+
+royecto de bob post claude: [./bob-pantalla-claudeado](./bob-pantalla-claudeado/)
+
+## grabación clase
+
+<https://youtu.be/R1j5wIGl8pA>
