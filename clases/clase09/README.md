@@ -138,6 +138,10 @@ royecto de bob post claude: [./bob-pantalla-claudeado](./bob-pantalla-claudeado/
 
 <https://youtu.be/R1j5wIGl8pA>
 
+## encargo para próxima semana
+
+investigar en AFEL un (1) sensor y un (1) actuador de su interés. Documentarlo en bitácora.
+
 ## seteos para convertir imagenes
 
 ![imagen1](./imagenes/converter-img-cpp-1.png)
