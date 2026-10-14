@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: courier;
+  line-height: 1.5;
+  color: #222;
+  background: lightpink;
+}
+
+header {
+  padding: 1rem;
+  background: #000000;
+  color: white;
+}
+
+main {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  background: red;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: lightgray;
+}
+/* ---------- Portada: header con biografía + grilla ---------- */
+.site-header {
+  padding: 2rem 1rem;
+}
+
+.header-inner {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.site-header h1 {
+  margin: 0 0 0.5rem;
+}
+
+.site-header .bio {
+  margin: 0 0 1rem;
+  max-width: 60ch;
+}
+
+.site-header nav a {
+  color: white;
+  text-decoration: underline;
+}
+
+.site-header nav a:hover {
+  color: lightpink;
+}
+
+main.wide {
+  max-width: 960px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.card a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+
+.card h3 {
+  margin: 0.5rem 0 0;
+}
+
+.card a:hover h3 {
+  text-decoration: underline;
+}
+
+/* Imágenes en páginas de obra: que no se salgan del contenedor */
+main img {
+  max-width: 100%;
+  height: auto;
+}
