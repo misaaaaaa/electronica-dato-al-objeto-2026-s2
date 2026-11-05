@@ -10,6 +10,8 @@
     - Dibujo esquemático (cómo va conectado al Arduino)
     - Boceto de instalación. Ojalá tenga escala, referencias, sitio en la sala, sensores y actuadores
 
+- 2 de diciembre: última nota, con pruebas de montaje    
+
 - 9 de diciembre: examen con montaje en sala 8. Anteproyecto actualizado. Incluir una bitácora donde se describa la distancia entre el anteproyecto y lo que llegaron (descubrimientos, fracasos, aprendizajes pendientes, gastos, etc)
 
 ## presentaciones
@@ -45,6 +47,14 @@
 - idea menos ambiciosa: caja musical "moderna". Hasta ahora solo cambia la frecuencia del sonido dependiendo de la luz que le llega
   - recomendada librería Tone() de Arduino
   - librería Minim de Processing (permite sintetizar sonido)
+
+### Nicole
+
+- válvula solenoide 12v dc <https://www.mercadolibre.cl/electrovalvula-valvula-solenoide-12v-12-nc-vshop/p/MLC2119834534>
+- módulo mosfet pwm <https://afel.cl/products/modulo-mosfet-15a-400w-pwm?_pos=1&_sid=7903edeea&_ss=r>
+- fuente de poder 12V / 2A o más <https://afel.cl/products/cargador-de-12v-2a>
+- puedes medir la resistencia a través de arduino con un divisor de voltaje
+- investigar Envelope Follower en audio
 
 ## tipos de motores
 
